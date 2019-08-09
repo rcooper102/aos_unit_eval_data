@@ -18,7 +18,11 @@ fs.readdir("./", (err, files) => {
 			
 			count ++;
 			Object.keys(parsed).forEach((item) => {
-				allData[`${item} (${army})`] = parsed[item];
+				try {
+				let unit = JSON.parse(parsed[item]);
+				unit.name = `${unit.name} (${army})`;
+				allData[`${item} (${army})`] = JSON.stringify(unit);
+				} catch (e) {}
 			});
 			if(count === files.length) {
 				const output = base64.encode(JSON.stringify(allData));
