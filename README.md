@@ -15,7 +15,7 @@ const data = copy(window.sim.localData);
 ## Importing Your Data
 
 ```
-window.sim.localData = data
+window.sim.importLocalData(data);
 ```
 
 ## Ommited Profiles
