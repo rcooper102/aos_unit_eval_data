@@ -14,9 +14,11 @@ fs.readdir("./", (err, files) => {
 		fs.readFile(`./${file}`, 'utf8', (err, data) => {
 			const parsed = JSON.parse(base64.decode(data));
 			const broken = file.split(".");
+			const army = broken[broken.length-2].split("_").join(" ");
+			
 			count ++;
 			Object.keys(parsed).forEach((item) => {
-				allData[`${item} (${broken[broken.length-2].split("_").join(" ")})`] = parsed[item];
+				allData[`${item} (${army})`] = parsed[item];
 			});
 			if(count === files.length) {
 				const output = base64.encode(JSON.stringify(allData));
