@@ -14,8 +14,22 @@ const data = copy(window.sim.localData);
 
 ## Importing Your Data
 
+You can import a blob of data directly by passing it to the `importLocalData` method.
+
 ```
 window.sim.importLocalData(data);
+```
+
+You can also import directly from the repo by passing the text file name to the `importLocalData` method.
+
+```
+window.sim.importLocalData(`slaanesh.txt`);
+```
+
+If you wish for the imported data to *replace* all existing data instead of merge, pase `true` as a second argument.
+
+```
+window.sim.importLocalData(`slaanesh.txt`, true);
 ```
 
 ## Ommited Profiles
