@@ -38,3 +38,5 @@ Some profiles have been ommited because the simulator is unable to simulate thei
 
 - Chaos Spawn (Beasts of Chaos) - One attack impacts another.
 - Chainghasts (Nighthaunt) - Attack profile dependant on number of nearby models.
+- Vargheists (Legions of Nagash) - Gains additional attacks after slaying models.
+- Terrorgheist (Legions of Nagash) - Auto wound.
