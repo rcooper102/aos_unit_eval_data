@@ -9,7 +9,7 @@ All units are presumed to be at max unit size or max wounds and *not* under the 
 ## Exporting Your Data
 
 ```
-const data = copy(window.sim.localData);
+const data = window.sim.localData;
 ```
 
 ## Importing Your Data
