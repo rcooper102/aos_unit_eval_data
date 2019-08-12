@@ -36,4 +36,5 @@ window.sim.importLocalData(`slaanesh.txt`, true);
 
 Some profiles have been ommited because the simulator is unable to simulate their profiles. (Due to strange interactions that are not currently accounted for)
 
-- Chaos Spawn (Beasts of Chaos)
+- Chaos Spawn (Beasts of Chaos) - One attack impacts another.
+- Chainghasts (Nighthaunt) - Attack profile dependant on number of nearby models.
