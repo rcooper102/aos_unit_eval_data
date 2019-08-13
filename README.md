@@ -41,3 +41,4 @@ Some profiles have been ommited because the simulator is unable to simulate thei
 - Vargheists (Legions of Nagash) - Gains additional attacks after slaying models. *Unfixable*
 - Terrorgheist (Legions of Nagash) - Auto wound. *Fixable*
 - Bone Giant (Tomb Kings) - Can pile in again some of the time. *Fixable*
+- Ylthari + Guardians (Sylvaneth) - Impossible to break points individually. *Unfixable*
