@@ -40,3 +40,4 @@ Some profiles have been ommited because the simulator is unable to simulate thei
 - Chainghasts (Nighthaunt) - Attack profile dependant on number of nearby models.
 - Vargheists (Legions of Nagash) - Gains additional attacks after slaying models.
 - Terrorgheist (Legions of Nagash) - Auto wound.
+- Bone Giant (Tomb Kings) - Can pile in again some of the time.
