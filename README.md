@@ -36,8 +36,8 @@ window.sim.importLocalData(`slaanesh.txt`, true);
 
 Some profiles have been ommited because the simulator is unable to simulate their profiles. (Due to strange interactions that are not currently accounted for)
 
-- Chaos Spawn (Beasts of Chaos) - One attack impacts another.
-- Chainghasts (Nighthaunt) - Attack profile dependant on number of nearby models.
-- Vargheists (Legions of Nagash) - Gains additional attacks after slaying models.
-- Terrorgheist (Legions of Nagash) - Auto wound.
-- Bone Giant (Tomb Kings) - Can pile in again some of the time.
+- Chaos Spawn (Beasts of Chaos) - One attack impacts another. *Fixable*
+- Chainghasts (Nighthaunt) - Attack profile dependant on number of nearby models. *Unfixable*
+- Vargheists (Legions of Nagash) - Gains additional attacks after slaying models. *Unfixable*
+- Terrorgheist (Legions of Nagash) - Auto wound. *Fixable*
+- Bone Giant (Tomb Kings) - Can pile in again some of the time. *Fixable*
