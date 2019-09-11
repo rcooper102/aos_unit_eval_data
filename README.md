@@ -47,4 +47,4 @@ Some profiles have been ommited because the simulator is unable to simulate thei
 - Kroxigor - Moon hammer is based on enemies nearby *unfixable*
 - Kroxigor - Jaws are MWs based on a dice off *fixable*
 - Bastiladon - Ark of Sotek based on number of nearby enemy units *unfixable*
-- Ripperdactyl Riders - Keep attacking until the miss *fixable*
+- Ripperdactyl Riders - Keep attacking until they miss *fixable*
