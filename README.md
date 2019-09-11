@@ -4,7 +4,7 @@ This contains a big chunk of pre-programmed units. NOT FOR DISTRIBUTION.
 
 NOTE: An import does *not* completely replace existing data. It merges it with any current data you have. (presuming the imported data to be the authority in cases of conflict)
 
-All units are presumed to be at max unit size or max wounds and *not* under the influence of any non static buffs.
+All units are presumed to be at max unit size or max wounds and *not* under the influence of any buffs they cannot get from their own warscroll or their allegiance. (Aka impossible to calculate in the value of a buff from another model that has a pts cost)
 
 ## Exporting Your Data
 
