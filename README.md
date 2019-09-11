@@ -42,3 +42,9 @@ Some profiles have been ommited because the simulator is unable to simulate thei
 - Terrorgheist (Legions of Nagash) - Auto wound. *Fixable*
 - Bone Giant (Tomb Kings) - Can pile in again some of the time. *Fixable*
 - Ylthari + Guardians (Sylvaneth) - Impossible to break points individually. *Unfixable*
+- Carnosaur (Seraphon) - Can't account for forelimb hit *fixable*
+- Saurus Scar-Veteran on Cold One - Can't account for "attack again" effect *fixable*
+- Kroxigor - Moon hammer is based on enemies nearby *unfixable*
+- Kroxigor - Jaws are MWs based on a dice off *fixable*
+- Bastiladon - Ark of Sotek based on number of nearby enemy units *unfixable*
+- Ripperdactyl Riders - Keep attacking until the miss *fixable*
