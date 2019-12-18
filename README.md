@@ -36,7 +36,7 @@ window.sim.importLocalData(`slaanesh.txt`, true);
 
 Some profiles have been ommited because the simulator is unable to simulate their profiles. (Due to strange interactions that are not currently accounted for)
 
-- Chaos Spawn (Beasts of Chaos) - One attack impacts another. *Fixable*
+- Chaos Spawn (Beasts of Chaos, Slaves to Darkness) - One attack impacts another. *Fixable*
 - Chainghasts (Nighthaunt) - Attack profile dependant on number of nearby models. *Unfixable*
 - Vargheists (Legions of Nagash) - Gains additional attacks after slaying models. *Unfixable*
 - Terrorgheist (Legions of Nagash) - Auto wound. *Fixable*
@@ -48,3 +48,4 @@ Some profiles have been ommited because the simulator is unable to simulate thei
 - Kroxigor - Jaws are MWs based on a dice off *fixable*
 - Bastiladon - Ark of Sotek based on number of nearby enemy units *unfixable*
 - Ripperdactyl Riders - Keep attacking until they miss *fixable*
+- Godsworn Hunt (Slaves to Darkness) - Every model in the unit is different *unfixable*
